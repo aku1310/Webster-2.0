@@ -1,0 +1,93 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/* main-section */
+
+.main-section {
+  background:  #F45B69;
+  height: 60vh;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.content {
+  width: 50%;
+  color: #fff;
+}
+
+.name {
+  font-size: 100px;
+}
+
+.about {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.img-container {
+  height: 100%;
+  width: 30%;
+  display: flex;
+  align-items: center;
+}
+
+.img {
+  object-fit: contain;
+  background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  margin: 0px auto;
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
+  background-image: url(../assets/profile-img.gif);
+}
+
+
+/* education sectoin */
+
+.section{
+    padding: 30px;
+}
+
+.section-heading{
+    text-align: center;
+    font-size: 50px;
+    margin: 50px 0;
+}
+
+.card-holder{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 50px;
+    row-gap: 50px;
+}
+.card{
+    background: #eee;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.title, .duration, .card-content{
+    margin: 10px 0;
+}
+
+/* footer */
+footer{
+    background: #22181C;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.copy{
+    color: #fff;    
+}
