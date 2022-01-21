@@ -1,0 +1,65 @@
+:root {
+
+    /* Colors */
+    --text-color: #ffffffe8;
+    --primary-bg-color: #121212;
+    --secondary-bg-color: #ffffff17;
+
+    font-family: sans-serif;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#about-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20vw;
+}
+
+.about-text {
+    display: flex;
+    flex-direction: column;
+    gap: 20vh;
+}
+
+.name {
+    max-width: 60%;
+}
+
+.about {
+    margin-left: 10vw;
+    max-width: 30vw;
+}
+
+#last-name {
+    padding-left: 100px;
+}
+
+/* Global */
+
+.page {
+    height: 100vh;
+    width: 100%;
+    background-color: var(--primary-bg-color);
+    color: var(--text-color);
+}
+
+.circle {
+    border-radius: 50%;
+    border: 2px solid var(--text-color);
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+section {
+    padding: 20px 55px;
+    background-color: var(--secondary-bg-color);
+    border-radius: 10px;
+}
