@@ -32,9 +32,9 @@ This challenge is meant to test our Front-end Web Development knowledge.
 ## Author
 
 ### Akanksha Kushwaha
-- GitHub - [Akanksha Kushwaha](https://www.github.com/aku1310/)
+- GitHub - [@aku1310](https://www.github.com/aku1310/)
 - LinkedIn - [Akanksha Kushwaha](https://www.linkedin.com/in/akankshakushwaha/)
 
 ### Vishrut Aggarwal
-- GitHub - [Akanksha Kushwaha](https://www.github.com/VishrutAggarwal/)
-- LinkedIn - [Akanksha Kushwaha](https://www.linkedin.com/in/vishrut-aggarwal/)
+- GitHub - [@VishrutAggarwal](https://www.github.com/VishrutAggarwal/)
+- LinkedIn - [Vishrut Aggarwal](https://www.linkedin.com/in/vishrut-aggarwal/)
