@@ -1,6 +1,6 @@
 # Webster 2.0
 
-This is a solution to the Webster 2.o Competition.
+This is a solution to the Webster 2.0 Competition.
 
 ## Table of contents
 
