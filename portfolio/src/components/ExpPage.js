@@ -15,6 +15,7 @@ class ExpPage extends Component {
                 <div className = "exp-details">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam fugiat
                 nulla perspiciatis ipsam voluptatem temporibus provident reiciendis.
+                Magnam, maiores autem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, natus.
                 </div>
               </div>
               <div className = "exp">
@@ -24,6 +25,7 @@ class ExpPage extends Component {
                 <div className = "exp-details">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam fugiat
                 nulla perspiciatis ipsam voluptatem temporibus provident reiciendis.
+                Magnam, maiores autem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, natus.
                 </div>
               </div>
             </section>
